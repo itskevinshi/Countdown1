@@ -1,0 +1,20 @@
+body {
+    background-color: #e5d0cc;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 133%;
+    color: #172121;
+}
+
+.list {
+    font-size: 18px;
+    color: #444554;
+}
+
+#pet {
+    font-weight: bold;
+}
+
+img {
+    border: 5px solid #bfacb5;
+    border-radius: 15px;
+}
